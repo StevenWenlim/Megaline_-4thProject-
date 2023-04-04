@@ -11,7 +11,7 @@ Based on the observation and visualization, here are some findings that I obtain
     
     1. It is known that both hypotheses is correct that there is a difference in the amount of revenue between the Surf and Ultimate plans, as well as a difference in the amount of revenue from users who come from NY-NJ and other areas.
     
-    2.Based on the visualization, the number of Surf plan users tends to increase every month. It can be concluded that the Surf plan is quite cheap and more suitable for users' needs in NY-NJ and other areas.
+    2. Based on the visualization, the number of Surf plan users tends to increase every month. It can be concluded that the Surf plan is quite cheap and more suitable for users' needs in NY-NJ and other areas.
     
     3. If the revenue is calculated based on the additional costs incurred if there is excessive usage of the Surf plan, it does bring in higher revenue in all areas. However, if calculated based on the total revenue, the Ultimate plan earns higher revenue.
 
